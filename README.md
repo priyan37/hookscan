@@ -15,7 +15,6 @@ A Python-based phishing detection tool that analyzes URLs to identify potential 
 ### Prerequisites
 Ensure you have the following installed:
 - Python 3.8 or later
-- Git
 
 ### Clone the Repository
 ```bash
