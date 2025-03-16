@@ -36,22 +36,9 @@ pip install -r requirements.txt
 
 ## Usage
 ```bash
-python phishing_detection.py
+python3 phishing_detection.py
 ```
 Follow the on-screen instructions to enter a URL and analyze it.
-
-## Dependencies
-This project uses the following Python libraries:
-- `requests`
-- `whois`
-- `beautifulsoup4`
-- `rich`
-- `urllib3`
-
-Make sure all dependencies are installed using:
-```bash
-pip install -r requirements.txt
-```
 
 ## API Key Setup
 To enable **Google Safe Browsing** checks, replace `your_api_key_here` in `phishing_detection.py` with a valid API key from [Google Safe Browsing API](https://developers.google.com/safe-browsing/v4/get-started).
