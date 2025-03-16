@@ -19,15 +19,14 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/Phishing-Detection.git
-cd Phishing-Detection
+git clone https://github.com/priyan37/hookscan.git
+cd hookscan
 ```
 
 ### Create a Virtual Environment (Optional but Recommended)
 ```bash
 python -m venv venv
-source venv/bin/activate   # On macOS/Linux
-venv\Scripts\activate     # On Windows
+source venv/bin/activate   
 ```
 
 ### Install Required Dependencies
